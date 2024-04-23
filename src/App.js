@@ -3,7 +3,7 @@ import './App.css';
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 // 5a7e3b84
-const API_URL='http://www.omdbapi.com/?i=tt3896198&apikey=bfd1869e';
+const API_URL='https://www.omdbapi.com/?i=tt3896198&apikey=bfd1869e';
 const movie1={
     "Title": "Italian Spiderman",
     "Year": "2007",
